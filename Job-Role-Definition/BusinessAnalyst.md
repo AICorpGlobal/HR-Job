@@ -15,3 +15,9 @@
 - Bachelor’s degree in Business Administration, Computer Science, or related field.
 
 *Note: As part of our interview process, we conduct an initial shortlisting. If you do not receive a response, your profile has not been shortlisted.*
+
+
+## How to apply :
+send your resume with cover letter to any of the emails
+ - jobs@aicorp.co.in
+ - hr@aicorp.co.in
