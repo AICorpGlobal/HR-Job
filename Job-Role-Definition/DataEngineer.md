@@ -1,7 +1,7 @@
 # Data Engineer
 ## Job Description
 
-Are you passionate about data and eager to build your career in a dynamic, fast-paced environment? Liven is looking for a motivated Junior Data Engineer to join our team, working alongside our Senior Data Engineer to build and maintain our cutting-edge data infrastructure. This is a unique opportunity to gain hands-on experience with advanced tools and technologies, including Databricks and AWS, and to contribute to impactful projects from day one.
+Are you passionate about data and eager to build your career in a dynamic, fast-paced environment? We are looking for a motivated  Data Engineer to join our team, working alongside our team  to build and maintain our cutting-edge data systems. This is a unique opportunity to gain hands-on experience with advanced tools and technologies, including Databricks and AWS, and to contribute to impactful projects from day one.
 
 ## What you'll do
 
