@@ -31,3 +31,8 @@ As a crucial member of our Sales and Business Development team, you will work cl
   - Adaptability.
   - Communication Skills.
   - Familiarity with the Indian Market is the minimum.
+
+## How to apply :
+send your resume with cover letter to any of the emails
+ - jobs@aicorp.co.in
+ - hr@aicorp.co.in
