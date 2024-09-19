@@ -27,3 +27,8 @@ Good to Have
 - Basic understanding of version control systems like Git for managing code and collaboration.
 - Formal Educattion or Certifications  demonstrating foundational or relevant skills.
 
+
+## How to apply :
+send your resume with cover letter to any of the emails
+ - jobs@aicorp.co.in
+ - hr@aicorp.co.in
