@@ -35,3 +35,9 @@ We are seeking a highly skilled and experienced **Senior .NET Software Engineer*
 - Experience in **Product-based companies** and working on long-term, scalable software solutions.
   
 If you’re a self-driven individual with a passion for building innovative software solutions and are excited to work in a fast-paced product-focused environment, we’d love to hear from you!
+
+
+## How to apply :
+send your resume with cover letter to any of the emails
+ - jobs@aicorp.co.in
+ - hr@aicorp.co.in
