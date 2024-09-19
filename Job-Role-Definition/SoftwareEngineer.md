@@ -28,3 +28,9 @@ PREFERRED QUALIFICATIONS
 
 - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
 - Bachelor's degree in computer science or equivalent
+
+
+## How to apply :
+send your resume with cover letter to any of the emails
+ - jobs@aicorp.co.in
+ - hr@aicorp.co.in
