@@ -36,3 +36,9 @@ Nice to have
 - Familiarity with build tools, such as Webpack
 - Knowledge of testing frameworks, such as Jest or React Testing Library
 - Understanding of containerization and deployment using tools like Docker
+
+
+## How to apply :
+send your resume with cover letter to any of the emails
+ - jobs@aicorp.co.in
+ - hr@aicorp.co.in
