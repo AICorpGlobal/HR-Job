@@ -27,3 +27,8 @@ Experience:
 • Accounting: 3 years (Preferred)
 • Tally: 3 years (Preferred)
 • total work: 3 years (Preferred)
+
+## How to apply :
+send your resume with cover letter to any of the emails
+ - jobs@aicorp.co.in
+ - hr@aicorp.co.in
