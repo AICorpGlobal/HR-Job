@@ -15,7 +15,7 @@ We’re offering a **6-month full-time internship** in a dynamic product organiz
 
 ### **Your Role**  
 - Collaborate with teams to design and deliver innovative solutions.  
-- Write and maintain top-quality code using **.NET, JavaScript, HTML5, CSS, Vue, React Native , etc **.  
+- Write and maintain top-quality code using our tech stack **.NET, JavaScript, HTML5, CSS, Vue, React Native , etc **.  
 - Work with **RESTful APIs** for seamless data integration.  
 - Debug, test, and enhance performance.  
 - Contribute to **Research & Development** and **Open Source Projects**.  
