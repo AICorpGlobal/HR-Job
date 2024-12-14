@@ -1,5 +1,8 @@
 
-# SeniorSoftwareFrontEndEngineer
+# Senior Software Engineer  Front End 
+
+## Status :[Position Open]
+
 ## Job description
 
 We are looking for an experienced Senior React Developer to join our team. As a Senior React Developer, you will be responsible for designing and implementing user interfaces, collaborating with cross-functional teams to define, design, and ship new features. The ideal candidate should have a strong background in JavaScript and TypeScript, along with a passion for delivering high-quality code and user experiences.
