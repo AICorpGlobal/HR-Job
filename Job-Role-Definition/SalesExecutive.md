@@ -17,7 +17,7 @@ As a crucial member of our Sales and Business Development team, you will work cl
 
 ## Requirements:
   
-  - Bachelor's degree in Business, Marketing, or a related field. (B. Tech/B. E. in Any Specialization is preferred).
+  - Bachelor's degree in Business, Marketing, or a related field. (Bachelors  in Any Specialization is preferred).
   - Proven track record of successfully selling B2B SaaS products to international customers.
   - Strong sales acumen, demonstrated by exceeding sales quotas and effectively managing the sales process.
   - Experience in shaping and fostering a positive sales culture within a team.
