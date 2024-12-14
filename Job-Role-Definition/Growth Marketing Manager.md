@@ -1,5 +1,8 @@
 # Growth Marketing Manager/Specialist
 
+
+## Status :[Position Closed]
+
 ## Position Overview
 The Growth Marketing Manager/Specialist will lead our marketing initiatives, combining data-driven product research with creative marketing strategies to identify and capitalize on market opportunities. This role requires a blend of analytical thinking and creative execution to drive sustainable growth.
 
