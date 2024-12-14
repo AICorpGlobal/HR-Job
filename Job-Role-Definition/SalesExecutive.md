@@ -1,5 +1,7 @@
 # Job description
 
+## Status :[Position Closed]
+
 We are seeking a dynamic and results-oriented B2B Sales Associate to join our growing team. 
 The successful candidate will be responsible for driving sales of our innovative SaaS product within national and international markets. 
 As a crucial member of our Sales and Business Development team, you will work closely with the founders to shape the sales culture, exceed sales quotas, and optimize CRM processes.
