@@ -1,4 +1,7 @@
 # Accountant
+
+## Status :[Position Closed]
+
 ## Job description
 
 Roles description:
