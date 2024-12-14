@@ -32,3 +32,5 @@ We follow a three stage approach for screening
 
 - we will let the candidate know about our intent to hire
 - Wil issue offer letter and sign the contracts 
+
+*Note: we give priority for people who attend interviews in person rather than the one who are closeby and attends online.*
