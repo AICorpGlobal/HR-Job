@@ -1,4 +1,7 @@
 # Business Analyst 
+
+## Status :[Position Closed]
+
 ## Job Responsibilities:
 - Collaborate with stakeholders across the organization (customers, executive leadership, sales, marketing, and implementation teams) to understand and prioritize key drivers for business growth.
 - Define and prioritize business requirements to guide the evolution of the product platform.
