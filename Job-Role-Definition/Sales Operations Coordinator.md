@@ -1,5 +1,7 @@
 # Sales Operations Coordinator
 
+## Status :[Position Closed]
+
 ## Position Overview
 The Sales Operations Coordinator will be responsible for managing post-sale operations, including order fulfillment, supplier coordination, and customer satisfaction. This role is crucial in ensuring smooth operational workflow from sale completion to successful delivery, supporting our sales team's effectiveness and customer success.
 
