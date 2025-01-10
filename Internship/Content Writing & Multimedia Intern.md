@@ -1,4 +1,4 @@
-## Content Writing & Multimedia Intern
+## Content Writer & Multimedia Intern
 ## Status :[Open]
  
 
