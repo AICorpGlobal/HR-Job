@@ -1,11 +1,8 @@
+## Content Writing & Multimedia Intern
+## Status :[Open]
+ 
 
-#### Overview of Buyconn
-
-Buyconn is an innovative e-commerce platform connecting local stores with customers, ensuring an economical, trustworthy shopping experience. We aim to empower small businesses by providing them with a digital marketplace and deliver value to customers by making local shopping accessible online.
-
----
-
-#### Internship Role and Responsibilities
+#### Role and Responsibilities Description
 
 ##### Role: Content Writing & Multimedia Intern
 
@@ -14,7 +11,7 @@ Buyconn is an innovative e-commerce platform connecting local stores with custom
 1. Content Writing:
  
     - Craft compelling blog posts, social media captions, newsletters, and website content.
-    -  Develop persuasive copy for seller and customer campaigns.
+    - Develop persuasive copy for seller and customer campaigns.
     - Proofread and edit content for clarity and impact.
 
 
@@ -68,6 +65,14 @@ Buyconn is an innovative e-commerce platform connecting local stores with custom
 - **Creativity**: Skills in Canva, Adobe Photoshop, and strong photo/video/audio editing.
 - **Attention to Detail**: Error-free work.
 - **Time Management**: Effective deadline management.
+
+Job Type: Full-time
+
+Schedule: • Day shift
+
+Ability to commute/relocate: • Thiruvananthapuram, Kerala: Reliably commute or planning to relocate before starting work (Preferred)
+
+Education: • Bachelors in arts, journalism, language or media communication (Preferred)
 
 ---
 
