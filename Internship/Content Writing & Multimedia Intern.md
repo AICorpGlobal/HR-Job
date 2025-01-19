@@ -37,7 +37,7 @@
 
 ---
 
-#### Benefits for the Intern
+#### Benefits for the Intern on top of remuneration
 
 1. Hands-on experience in e-commerce and digital marketing.
 2. A creative platform to showcase and develop skills.
