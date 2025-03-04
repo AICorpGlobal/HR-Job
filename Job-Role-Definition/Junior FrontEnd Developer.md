@@ -8,14 +8,14 @@ We are looking for a motivated Junior Web Developer with 0-2 years of experience
 
 #### Responsibilities:
 
- • Develop and maintain web applications utilizing server-side technologies such as React, React Native, Vue.js, and Nuxt.js.
- • Work closely with the UI/UX team to implement responsive, user-friendly interfaces using HTML, CSS, JavaScript, and TypeScript.
- • Write clean, efficient, and maintainable code, adhering to Object-Oriented Programming (OOP) principles.
- • Diagnose, troubleshoot, and optimize web applications to ensure optimal performance and usability.
- • Contribute to the design and implementation of new features and functionalities.
- • Ensure seamless user experiences by maintaining responsive design and cross-browser compatibility across all devices.
- • Participate in code reviews, offering constructive feedback and learning from more experienced developers.
- • Stay current with industry trends and continually expand your knowledge of emerging technologies and frameworks.
+ * Develop and maintain web applications utilizing server-side technologies such as React, React Native, Vue.js, and Nuxt.js.
+ * Work closely with the UI/UX team to implement responsive, user-friendly interfaces using HTML, CSS, JavaScript, and TypeScript.
+ * Write clean, efficient, and maintainable code, adhering to Object-Oriented Programming (OOP) principles.
+ * Diagnose, troubleshoot, and optimize web applications to ensure optimal performance and usability.
+ * Contribute to the design and implementation of new features and functionalities.
+ * Ensure seamless user experiences by maintaining responsive design and cross-browser compatibility across all devices.
+ * Participate in code reviews, offering constructive feedback and learning from more experienced developers.
+ * Stay current with industry trends and continually expand your knowledge of emerging technologies and frameworks.
 
 #### Preferred Skills
 
