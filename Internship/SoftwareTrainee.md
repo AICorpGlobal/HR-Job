@@ -1,4 +1,4 @@
-**🚀 Kickstart Your Career in Software Engineering with a Paid Internship! 🌟**  
+**🚀 Kickstart Your Career in Software Engineering with a Paid Training! 🌟**  
 
 Are you an aspiring software engineer eager to launch your tech career with real-world experience? Here's your chance to gain valuable industry insights and build a strong foundation in software development!  
 
