@@ -1,8 +1,13 @@
 Job Title: Junior Game Developer (Godot / GDScript / C# / C++)
+
 Location:
+
 Experience: 0–3 Years
+
 Education: B.Tech/M.Tech in Computer Science, Game Development, or related field
+
 Employment Type: Full-time
+
 About the Role:
 
 We are looking for a passionate and motivated Junior Game Developer to join our creative team. This is an exciting opportunity for someone who loves games and is eager to start or grow their career in game development. You will work closely with experienced developers, designers, and artists to build engaging and interactive gameplay experiences using the Godot Engine and related technologies.
