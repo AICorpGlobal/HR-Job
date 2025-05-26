@@ -1,29 +1,59 @@
-What You’ll Do:
+Job Title: Junior Game Developer (Godot / GDScript / C# / C++)
+Location:
+Experience: 0–3 Years
+Education: B.Tech/M.Tech in Computer Science, Game Development, or related field
+Employment Type: Full-time
+About the Role:
 
-Develop and maintain gameplay features using GDScript in Godot.
+We are looking for a passionate and motivated Junior Game Developer to join our creative team. This is an exciting opportunity for someone who loves games and is eager to start or grow their career in game development. You will work closely with experienced developers, designers, and artists to build engaging and interactive gameplay experiences using the Godot Engine and related technologies.
+Key Responsibilities:
 
-Collaborate with designers and artists to bring ideas to life.
+    Assist in the development and maintenance of gameplay features using GDScript, C#, or C++
 
-Debug, test, and polish game systems and features.
+    Collaborate with designers and artists to implement game mechanics and interactive systems
 
-Learn and follow our code practices and workflows based on Godot’s ecosystem.
+    Write clean, efficient, and maintainable code
 
-Must-Have Requirements:
+    Test, debug, and polish gameplay elements and systems
 
-We use GDScript , C#, C++, or other languages in our codebase.
+    Participate in code reviews and team discussions
 
-Familiarity with or strong willingness to learn the Godot Engine and GDScript.
+    Continuously learn and improve your skills within the game development ecosystem
 
-Basic understanding of programming principles (OOP, game loops, scripting).
+Requirements:
 
-Passion for game development and building engaging user experiences.
+    B.Tech/M.Tech in Computer Science, Game Development, or a related discipline
 
-Preferred Skills (Nice to Have):
+    0 to 3 years of relevant experience in game or software development
 
-Personal or academic projects built in Godot.
+    Basic understanding of programming concepts such as OOP, game loops, and scripting
 
-Understanding of Godot’s scene/node system, signals, and animation tools.
+    Strong problem-solving and logical thinking skills
 
-Experience with 2D or 3D games, UI systems, or physics-based mechanics.
+    Good communication and teamwork abilities
 
-Familiarity with Git or version control systems.
+    Willingness to learn Godot Engine and grow in a collaborative game development environment
+
+Nice to Have (Not Mandatory):
+
+    Experience with personal, academic, or game jam projects built in Godot
+
+    Familiarity with Godot’s scene system, signals, and animation tools
+
+    Exposure to 2D or 3D game development, physics, or UI systems
+
+    Basic knowledge of version control tools such as Git
+
+    Understanding of agile or iterative development methodologies
+
+What We Offer:
+
+    A friendly, creative, and collaborative team environment
+
+    Opportunities for professional growth, mentorship, and learning
+
+    Access to exciting projects in the gaming industry
+
+    Competitive compensation and benefits
+
+    Flexible work arrangements (role- and location-dependent)
